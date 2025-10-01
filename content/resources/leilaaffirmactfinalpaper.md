@@ -5,6 +5,8 @@ description: Sample research paper courtesy of Leila Agha, a student in the clas
 file: /courses/14-33-economics-research-and-communication-spring-2005/180d976c394d95f8860ec69929536daa_LeilaAffirmActFinalPaper.pdf
 file_size: 326508
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

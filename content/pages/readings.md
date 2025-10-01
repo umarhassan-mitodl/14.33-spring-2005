@@ -21,7 +21,7 @@ Pindyck, Robert S., and Daniel L. Rubinfeld. *Econometric Models and Economic Fo
 
 Strunk, William Jr., and E. B. White. *The Elements of Style*. Boston, MA: Longman, 1999. ISBN: 020530902X.
 
-{{% resource_link "61d5a246-2b7b-4dbc-9bbc-d2d95d87de83" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Thomson, William. {{% resource_link "61d5a246-2b7b-4dbc-9bbc-d2d95d87de83" "*A Guide for the Young Economist*" %}}. Cambridge, MA: MIT Press, 2001. ISBN: 0262700794.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/0262700794) Thomson, William. [*A Guide for the Young Economist*](https://mitpress.mit.edu/0262700794). Cambridge, MA: MIT Press, 2001. ISBN: 0262700794.
 
 ## Readings by Weekly Session
 
@@ -76,7 +76,7 @@ Assembly of Research Teams
 
 Handout of "Guidelines for Writing an Empirical Paper."
 
-\*Chay, Kenneth, and Michael Greenstone. "{{% resource_link "c9827130-f61f-43e1-81cb-cf104b778a00" "Air Quality, Infant Mortality and the Clean Air Act of 1970" %}}." NBER Working Paper #10053, 2003.
+\*Chay, Kenneth, and Michael Greenstone. "[Air Quality, Infant Mortality and the Clean Air Act of 1970](http://economics.mit.edu/faculty/mgreenst/papers)." NBER Working Paper #10053, 2003.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4

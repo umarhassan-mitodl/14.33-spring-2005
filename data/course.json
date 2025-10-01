@@ -26,6 +26,7 @@
     "website": "14-33-economics-research-and-communication-spring-2005"
   },
   "course_title": "Economics Research and Communication",
+  "hide_download": true,
   "course_description": "This course is for students interested in conducting original research on economics questions. There will be an emphasis on choice of research topics, primary sources, data sources, and research methods. The primary activities are oral presentations, the preparation of a paper, and providing constructive feedback on classmates' research projects.\n",
   "department_numbers": [
     "14"
@@ -36,6 +37,7 @@
     "content": "8ec3cf03-8880-fd41-59a6-57e14d3f64db",
     "website": "14-33-economics-research-and-communication-spring-2005"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Problem Sets",
     "Written Assignments with Examples"

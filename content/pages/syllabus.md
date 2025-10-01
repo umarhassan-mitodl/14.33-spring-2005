@@ -80,7 +80,7 @@ Pindyck, Robert S., and Daniel L. Rubinfeld. *Econometric Models and Economic Fo
 
 Strunk, William Jr., and E. B. White. *The Elements of Style*. Boston, MA: Longman, 1999. ISBN: 020530902X.
 
-{{% resource_link "7cece88c-f780-4096-b37f-b77ee377b259" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Thomson, William. {{% resource_link "7cece88c-f780-4096-b37f-b77ee377b259" "*A Guide for the Young Economist*" %}}. Cambridge, MA: MIT Press, 2001. ISBN: 0262700794.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/guide-young-economist) Thomson, William. [*A Guide for the Young Economist*](https://mitpress.mit.edu/books/guide-young-economist). Cambridge, MA: MIT Press, 2001. ISBN: 0262700794.
 
 *Stata* manuals
 
@@ -91,4 +91,4 @@ Strunk, William Jr., and E. B. White. *The Elements of Style*. Boston, MA: Longm
 1. You are encouraged to discuss all course material with other students in the class. However, discussion with others is intended to clarify ideas, concepts, and technical questions, not to derive group papers. Each student must hand in their own problem set and, obviously, their own research plan, first draft, and final draft of their paper.
 2. In fairness to students who complete assignments on time, there will be no extensions for the problem set, research plan, and first draft. There will be no extensions and later assignments will receive a zero. The location to turn in each of the assignments will be discussed in class.
 3. We will accept late versions of the final paper, but their grades will be penalized a half a letter grade for each day that the paper is late.
-4. Cheating or academic dishonesty in any form will not be tolerated and will result in swift punitive action. This includes but is not restricted to copying material from other students, lying, or plagiarizing from any source. See {{% resource_link "c146e96c-18e9-4fd5-87e0-a0652f55290d" "Citing and Using Sources" %}} for clarification on what constitutes plagiarism. Any student found to have cheated or behaved unethically or dishonestly will be given a grade of F on the assignment involved and referred to the appropriate MIT disciplinary committees for further action.
+4. Cheating or academic dishonesty in any form will not be tolerated and will result in swift punitive action. This includes but is not restricted to copying material from other students, lying, or plagiarizing from any source. See [Citing and Using Sources](http://cmsw.mit.edu/writing-and-communication-center/avoiding-plagiarism/) for clarification on what constitutes plagiarism. Any student found to have cheated or behaved unethically or dishonestly will be given a grade of F on the assignment involved and referred to the appropriate MIT disciplinary committees for further action.
