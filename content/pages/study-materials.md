@@ -3,8 +3,6 @@ content_type: page
 description: This section provides guidelines for writing an empirical paper, a tutorial
   on the statistical software program STATA, and study guide on the omitted variables
   bias.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Study Materials
